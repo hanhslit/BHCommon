@@ -13,7 +13,7 @@ public class DemoLoadingScene : MonoBehaviour {
 	void Update () {
 		if (Input.GetMouseButtonDown(0))
 		{
-			ScenesManager.Instance.LoadScene("Scene1",true);
+		//	ScenesManager.Instance.LoadScene("Scene1",true);
 		}
 		if (Input.GetMouseButtonDown(1))
 		{
